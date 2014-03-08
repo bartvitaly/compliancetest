@@ -1,0 +1,4 @@
+compliancetest
+==============
+
+SoapUI configuration tests.
